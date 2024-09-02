@@ -4,8 +4,8 @@ import 'package:zego_zimkit/zego_zimkit.dart';
 
 void main() {
   ZIMKit().init(
-    appID: 1662544375, // your appid
-    appSign: "8522de14d7a5479dfd376580270771de6a0e5e143593fb1914316c39bb69b63c", // your appSign
+    appID: 12345, // your appid
+    appSign: "", // your appSign
   );
   runApp(const MyApp());
 }
